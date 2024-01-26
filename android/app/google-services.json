@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876902480330",
+    "project_id": "ascom-55898",
+    "storage_bucket": "ascom-55898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876902480330:android:f7525b100d8b97989f7733",
+        "android_client_info": {
+          "package_name": "com.example.ascom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876902480330-f1qjlao8n4h8j7iemhpfeuuhdn653t30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgh2-eZFNMuSM49IqHzN2V00ra0Y_Vspc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876902480330-f1qjlao8n4h8j7iemhpfeuuhdn653t30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
